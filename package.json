@@ -1,0 +1,17 @@
+{
+  "name": "game-memory-ck",
+  "version": "1.0.0",
+  "description": "Memorama",
+  "main": "src/index.js",
+  "scripts": {
+    "async:fetchData": "node src/index.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "cstgarcia <ckstgarcia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
